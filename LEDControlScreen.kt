@@ -128,7 +128,6 @@ private suspend fun scanForDevices(
 }
 
 
-
 @Composable
 fun LEDControlScreen(
     onReconfigure: () -> Unit,
